@@ -18,7 +18,7 @@ class App extends React.Component {
   render() {
     return (
       <Router>
-        <Route exact path="/" render={() => <Redirect to="/dashboard" />} />
+        <Route exact path="/" render={() => <Redirect to="/home" />} />
         <Banner></Banner>
         {this.renderRoutes()}
         <Footer></Footer>
