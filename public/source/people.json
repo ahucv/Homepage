@@ -20,6 +20,11 @@
             "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
             "email": "linlng (at) mail.sysu.edu.cn",
             "website": "http://www.linliang.net"
+        },
+        {
+            "name": "张三",
+            "avatarUrl": "https://user-images.githubusercontent.com/50065645/62307550-63a02d00-b4b6-11e9-80f3-da623ab8be8e.png",
+            "email": "zhangsan@ahu.edu.cn"
         }
     ]
 }
