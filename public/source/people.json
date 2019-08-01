@@ -1,10 +1,17 @@
 {
     "faculty": [
         {
-        "name": "Liang Lin",
-        "title": "Professor",
-        "avatarUrl": "http://www.sysu-hcp.net/wp-content/uploads/2018/03/linliang.png",
-        "email": "linlng (at) mail.sysu.edu.cn"
+            "name": "faculty A",
+            "title": "Professor",
+            "avatarUrl": "http://www.sysu-hcp.net/wp-content/uploads/2018/03/linliang.png",
+            "email": "faca@ahu.edu.cn",
+            "website": "https://faca.cn"
+        },
+        {
+            "name": "Liang Lin",
+            "title": "Professor",
+            "avatarUrl": "http://www.sysu-hcp.net/wp-content/uploads/2018/03/linliang.png",
+            "email": "linlng (at) mail.sysu.edu.cn"
         }
     ],
     "students": [
