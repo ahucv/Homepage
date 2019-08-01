@@ -22,7 +22,7 @@ class Menu extends React.Component {
 const SMenu = styled.ul`
     margin: 0;
     padding: 8px 70px;;
-    background: rgb(0, 21, 41, 0.95);
+    background: rgba(0, 21, 41, 0.95);
     @media (max-width: 450px) {
         display: flex;
         justify-content: space-around;
