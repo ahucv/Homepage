@@ -19,6 +19,7 @@ Below is a simple demo that guides you to update your profiler in our website:
 <kbd>
 <img src="https://user-images.githubusercontent.com/32427260/62308058-57689f80-b4b7-11e9-8c57-c13ac63b522a.gif" />
 </kbd>
+
 1. Open this [issue](https://github.com/ahucv/Homepage/issues/1)
 2. Drag your local avatar file (jpg or png) to upload it to get the avatar URL, copy that link to the clipboard
 3. Edit the [people.json](https://github.com/ahucv/Homepage/edit/master/public/source/people.json).
