@@ -14,14 +14,12 @@ You can edit each section by modifying the following files in the GitHub:
 - [Link](https://github.com/ahucv/Homepage/edit/master/public/source/link.md)
 
 ## How to update your information
-
-
-### How to Get avatarUrl
 Below is a simple demo that guides you to update your profiler in our website:
 
 <kbd>
 <img src="https://user-images.githubusercontent.com/32427260/62308058-57689f80-b4b7-11e9-8c57-c13ac63b522a.gif" />
 </kbd>
+
 
 1. Open this [issue](https://github.com/ahucv/Homepage/issues/1)
 2. Drag your local avatar file (jpg or png) to upload it to get the avatar URL, copy that link to the clipboard
