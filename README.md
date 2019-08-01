@@ -14,7 +14,7 @@ You can edit each section by modifying the following files in the GitHub:
 - [Link](https://github.com/ahucv/Homepage/edit/master/public/source/link.md)
 
 ## How to update your information
-Below is a simple demo that guides you to update your profiler in our website:
+Below is a simple demo that guides you to update your profile in our website:
 
 <kbd>
 <img src="https://user-images.githubusercontent.com/32427260/62308058-57689f80-b4b7-11e9-8c57-c13ac63b522a.gif" />
