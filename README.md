@@ -7,11 +7,11 @@ You can edit each section by modifying the following files in the GitHub:
 - [Home](https://github.com/ahucv/Homepage/edit/master/public/source/home.md)
 - [News](https://github.com/ahucv/Homepage/edit/master/public/source/news.md)
 - [People](https://github.com/ahucv/Homepage/edit/master/public/source/people.md)
-- [Projects](https://github.com/ahucv/Homepage/edit/master/public/source/project.md)
-- [Publications](https://github.com/ahucv/Homepage/edit/master/public/source/publication.md)
+- [Project](https://github.com/ahucv/Homepage/edit/master/public/source/project.md)
+- [Publication](https://github.com/ahucv/Homepage/edit/master/public/source/publication.md)
 - [Code](https://github.com/ahucv/Homepage/edit/master/public/source/code.md)
-- [Datasets](https://github.com/ahucv/Homepage/edit/master/public/source/dataset.md)
-- [Links](https://github.com/ahucv/Homepage/edit/master/public/source/link.md)
+- [Dataset](https://github.com/ahucv/Homepage/edit/master/public/source/dataset.md)
+- [Link](https://github.com/ahucv/Homepage/edit/master/public/source/link.md)
 
 
 ## How to upload images
