@@ -5,117 +5,11 @@
         "title": "Professor",
         "avatarUrl": "http://www.sysu-hcp.net/wp-content/uploads/2018/03/linliang.png",
         "email": "linlng (at) mail.sysu.edu.cn"
-        },
-        {
-            "name": "Liang Lin",
-            "title": "Professor",
-            "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-            "website": "http://www.linliang.net"
-        },
-        {
-            "name": "Liang Lin",
-            "title": "Professor",
-            "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-            "email": "linlng (at) mail.sysu.edu.cn",
-            "website": "http://www.linliang.net"
-        },
-        {
-            "name": "Liang Lin",
-            "title": "Professor",
-            "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-            "email": "linlng (at) mail.sysu.edu.cn",
-            "website": "http://www.linliang.net"
-        },
-        {
-        "name": "Liang Lin",
-        "title": "Professor",
-        "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-        "email": "linlng (at) mail.sysu.edu.cn",
-        "website": "http://www.linliang.net"
-        },
-        {
-            "name": "Liang Lin",
-            "title": "Professor",
-            "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-            "email": "linlng (at) mail.sysu.edu.cn",
-            "website": "http://www.linliang.net"
-        },
-        {
-            "name": "Liang Lin",
-            "title": "Professor",
-            "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-            "email": "linlng (at) mail.sysu.edu.cn",
-            "website": "http://www.linliang.net"
-        },
-        {
-            "name": "Liang Lin",
-            "title": "Professor",
-            "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-            "email": "linlng (at) mail.sysu.edu.cn",
-            "website": "http://www.linliang.net"
-        },
-        {
-            "name": "Liang Lin",
-            "title": "Professor",
-            "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-            "email": "linlng (at) mail.sysu.edu.cn",
-            "website": "http://www.linliang.net"
-            },
-            {
-                "name": "Liang Lin",
-                "title": "Professor",
-                "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-                "email": "linlng (at) mail.sysu.edu.cn",
-                "website": "http://www.linliang.net"
-            },
-            {
-                "name": "Liang Lin",
-                "title": "Professor",
-                "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-                "email": "linlng (at) mail.sysu.edu.cn",
-                "website": "http://www.linliang.net"
-            },
-            {
-                "name": "Liang Lin",
-                "title": "Professor",
-                "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-                "email": "linlng (at) mail.sysu.edu.cn",
-                "website": "http://www.linliang.net"
-            },
-            {
-                "name": "Liang Lin",
-                "title": "Professor",
-                "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-                "email": "linlng (at) mail.sysu.edu.cn",
-                "website": "http://www.linliang.net"
-                },
-                {
-                    "name": "Liang Lin",
-                    "title": "Professor",
-                    "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-                    "email": "linlng (at) mail.sysu.edu.cn",
-                    "website": "http://www.linliang.net"
-                },
-                {
-                    "name": "Liang Lin",
-                    "title": "Professor",
-                    "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-                    "email": "linlng (at) mail.sysu.edu.cn",
-                    "website": "http://www.linliang.net"
-                },
-                {
-                    "name": "Liang Lin",
-                    "title": "Professor",
-                    "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-                    "email": "linlng (at) mail.sysu.edu.cn",
-                    "website": "http://www.linliang.net"
-                }
-
+        }
     ],
     "students": [
         {
             "name": "Liang Lin",
-            "title": "Professor",
             "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
             "email": "linlng (at) mail.sysu.edu.cn",
             "website": "http://www.linliang.net"
