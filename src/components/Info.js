@@ -6,10 +6,10 @@ class Info extends React.Component {
         const { name, avatarUrl, email, website, title } = this.props;
         return (
             <SInfo>
-                <img src={avatarUrl} avatar={avatarUrl} alt={name}></img>
+                <div className='image-box'><IImage src={avatarUrl} avatar={avatarUrl} alt={name}></IImage></div>
                 {website ? (
-                    <a className='name' href={website}>{name}</a>)
-                    : (<span className='name'>{name}</span>)
+                    <div className='name'><a href={website}>{name}</a></div>)
+                    : (<div className='name'>{name}</div>)
                 }
                 <div className='email' >{email.replace(/@/, ' [AT] ')}</div>
                 <div className='title'>{title}</div>
@@ -19,31 +19,30 @@ class Info extends React.Component {
 }
 
 const SInfo = styled.div`
-    position: relative;
-    width: 130px;
-    height: 130px;
-    text-align: center;
+    height: 270px;
+    margin: 15px 10px;
     display: inline-block;
-    margin: 15px 25px;
-    ::after {
-        position: absolute;
-        top: -1px;
-        left: -1px;
-        content: "";
-        width: 135px;
-        height: 135px;
-        border-radius: 50%;
+    .image-box {
+        position: relative;
+        width: 130px;
+        height: 130px;
+        text-align: center;
+        display: inline-block;
+        ::after {
+            position: absolute;
+            top: -1px;
+            left: -1px;
+            content: "";
+            width: 135px;
+            height: 135px;
+            border-radius: 50%;
+        }
     }
     a {
         color: #0066cc!important;
     }
-    img {
-        width: 100%;
-        height: 100%;
-        border-radius: 50%;
-        margin-bottom: 5px;
-        border: 5px solid rgba(255, 255, 255, 0.6);
-        background: url(${ ({ children: [ { props: { avatar } } ] }) => avatar });
+    .name {
+        text-align: center;
     }
     .email {
         color: #666666;
@@ -57,6 +56,15 @@ const SInfo = styled.div`
         font-size: 12px;
         text-align: center;
     }
+`;
+
+const IImage = styled.img`
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    border: 5px solid rgba(255, 255, 255, 0.6);
+    background: url(${ ({ src }) => src });
 `;
 
 export default Info;
