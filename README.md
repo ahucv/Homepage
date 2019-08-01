@@ -13,8 +13,10 @@ You can edit each section by modifying the following files in the GitHub:
 - [Dataset](https://github.com/ahucv/Homepage/edit/master/public/source/dataset.md)
 - [Link](https://github.com/ahucv/Homepage/edit/master/public/source/link.md)
 
+## How to update your information
+Edit the [people.json](https://github.com/ahucv/Homepage/edit/master/public/source/people.json).
 
-## How to upload images
+### How to Get avatarUrl
 You need to [upload](https://github.com/ahucv/Homepage/upload/master/public/images) images to this repository first. And then refer this images with relative path. (such as `![](./images/demo.png)`) in the above files.
 
 ## License
