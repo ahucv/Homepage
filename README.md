@@ -1,3 +1,5 @@
+# Multi-Modal Intelligent Computing Group
+
 This the source code of our group Homepage, which applies [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax.
 
 ## How to edit the source code
