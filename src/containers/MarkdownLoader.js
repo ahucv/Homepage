@@ -1,12 +1,31 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import ReactMarkdown from 'react-markdown';
 import styled from 'styled-components';
+
+import InfoList from '../containers/InfoList';
 
 class MarkdownLoader extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
             content: ''
+        }
+    }
+
+    async componentDidUpdate() {
+        const { path } = this.props;
+        if (path === '/people') {
+            const response = await fetch('/source/people.json');
+            const { faculty, students } = await response.json();
+            ReactDOM.render(
+                <InfoList list={faculty} />,
+                document.getElementById('faculty')
+            );
+            ReactDOM.render(
+                <InfoList list={students} />,
+                document.getElementById('students')
+            );
         }
     }
 
@@ -39,27 +58,6 @@ const SMarkdown = styled.div`
     line-height: 1.5;
     h1, h2, h3, h4, h5, h6 {
         font-family: "Charter", "Bitstream Charter", Georgia, serif;
-    }
-    .circle-border {
-        position: relative;
-        width: 130px;
-        height: 130px;
-        display: inline-block;
-        ::after {
-            position: absolute;
-            top: 0;
-            left: 0;
-            box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.6) inset, 0 1px 2px rgba(0, 0, 0, 0.3);
-            content: "";
-            width: 135px;
-            height: 135px;
-            border-radius: 50%;
-        }
-        img {
-          width: 100%;
-          height: 100%;
-          border-radius: 50%;
-        }
     }
     a {
         color: #0088cc;
