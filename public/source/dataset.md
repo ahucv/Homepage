@@ -1,7 +1,7 @@
 
 # RGBT Tracking
 
-1. **RGBT234 Dataset** \[[Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)\] \[[Baidu cloud](https://pan.baidu.com/s/1naq87OmHz2c_GrtOdFCpgQ)]\] \[[Project](https://sites.google.com/view/ahutracking001/)\]
+## **RGBT234 Dataset** \[[Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)\] \[[Baidu cloud](https://pan.baidu.com/s/1naq87OmHz2c_GrtOdFCpgQ)]\] \[[Project](https://sites.google.com/view/ahutracking001/)\]
 
     **Citation:** Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (PR), in press.
 
