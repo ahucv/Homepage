@@ -1,11 +1,12 @@
 {
     "menu": {
         "Home": "/home",
+        "News": "/news",
         "People": "/people",
-        "Projects": "/projects",
-        "Publications": "/publications",
+        "Project": "/project",
+        "Publication": "/publication",
         "Code": "/code",
-        "Datasets": "/datasets",
-        "Links": "/links"
+        "Dataset": "/dataset",
+        "Link": "/link"
     }
 }
