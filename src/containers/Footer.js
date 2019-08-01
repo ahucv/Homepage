@@ -4,7 +4,7 @@ import styled from 'styled-components';
 class Footer extends React.Component {
     render() {
         return (
-            <SFooter>School of Computer Science and Technology, Anhui University, Yiyuan Campus, 111 Jiulong Road, Shushan District, Hefei, Anhui, China</SFooter>
+            <SFooter>School of Computer Science and Technology, Anhui University, 111 Jiulong Road, Shushan District, Hefei, Anhui, China</SFooter>
         );
     }
 }
