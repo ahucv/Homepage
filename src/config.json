@@ -1,0 +1,11 @@
+{
+    "menu": {
+        "Home": "/home",
+        "People": "/people",
+        "Projects": "/projects",
+        "Publications": "/publications",
+        "Code": "/code",
+        "Datasets": "/datasets",
+        "Links": "/links"
+    }
+}

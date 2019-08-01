@@ -1,4 +1,8 @@
 body {
+  color: #0d1a26;
+  background: url('./assets/images//ahu_bg.png') no-repeat;
+  background-attachment: fixed;
+  background-size: 100vw 100vh;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -10,4 +14,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+#root {
+  max-width: 1000px;
+  margin: 0 auto;
 }
