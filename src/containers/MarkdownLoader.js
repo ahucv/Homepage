@@ -20,7 +20,10 @@ class MarkdownLoader extends React.Component {
     render() {
         return (
             <SMarkdown>
-                <ReactMarkdown source={ this.state.content }></ReactMarkdown>
+                <ReactMarkdown
+                    source={ this.state.content }
+                    escapeHtml={ false }
+                />
             </SMarkdown>
         );
     }
