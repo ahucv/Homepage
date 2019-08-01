@@ -14,6 +14,9 @@ const SFooter = styled.div`
     text-align: center;
     margin-bottom: 20px;
     color: #999999;
+    @media (max-width: 450px) {
+        font-size: 12px;
+    }
 `;
 
 export default Footer;

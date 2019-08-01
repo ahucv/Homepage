@@ -23,6 +23,11 @@ const SMenu = styled.ul`
     margin: 0;
     padding: 8px 70px;;
     background: rgb(0, 21, 41, 0.95);
+    @media (max-width: 450px) {
+        display: flex;
+        justify-content: space-around;
+        padding: 8px 3px;
+    }
 `;
 
 const SMenuItem = styled.li`
@@ -37,7 +42,12 @@ const SMenuItem = styled.li`
             color: white;
         }
     }
-
+    @media (max-width: 450px) {
+        margin: 0 3px;
+        a {
+            font-size: 14px;
+        }
+    }
 `;
 
 export default Menu;

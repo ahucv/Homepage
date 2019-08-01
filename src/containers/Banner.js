@@ -23,17 +23,28 @@ const SBanner = styled.div`
     background: #001529;
     display: flex;
     align-items: center;
+    @media (max-width: 450px) {
+        height: 80px;
+    }
 `;
 
 const SLogo = styled.img`
     width: 100px;
     margin-left: 60px;
+    @media (max-width: 450px) {
+        margin-left: 50px;
+        width: 60px;
+    }
 `;
 
 const STitle = styled.h1`
     margin-left: 20px;
     display: inline-block;
     color: white;
+    @media (max-width: 450px) {
+        font-size: 18px;
+        max-width: 245px;
+    }
 `;
 
 export default Banner;

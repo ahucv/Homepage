@@ -30,6 +30,10 @@ const SMarkdown = styled.div`
     padding: 10px 50px;
     background: white;
     margin-bottom: 30px;
+    overflow: auto;
+    @media (max-width: 450px) {
+        padding: 15px;
+    }
 `;
 
 export default MarkdownLoader;
