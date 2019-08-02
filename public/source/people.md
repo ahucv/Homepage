@@ -1,5 +1,3 @@
-# People
-
 ## Faculty
 
 <div id="faculty"></div>
