@@ -1,30 +1,33 @@
 {
     "faculty": [
         {
-            "name": "faculty A",
+            "name": "Jin Tang",
             "title": "Professor",
             "avatarUrl": "http://www.sysu-hcp.net/wp-content/uploads/2018/03/linliang.png",
-            "email": "faca@ahu.edu.cn",
-            "website": "https://faca.cn"
+            "email": "tangjin (at) ahu.edu.cn",
         },
         {
-            "name": "Liang Lin",
-            "title": "Professor",
+            "name": "Chenglong Li",
+            "title": "Associate Professor",
             "avatarUrl": "http://www.sysu-hcp.net/wp-content/uploads/2018/03/linliang.png",
-            "email": "linlng (at) mail.sysu.edu.cn"
+            "email": "lcl1314 (at) foxmail.com"
+            "website": "http://chenglongli.cn"
         }
     ],
     "students": [
         {
-            "name": "Liang Lin",
-            "avatarUrl": "http://www.linliang.net/wp-content/uploads/2018/10/%E6%9E%97%E5%80%9E_201805-1-246x300.jpg",
-            "email": "linlng (at) mail.sysu.edu.cn",
-            "website": "http://www.linliang.net"
+            "name": "Chenglong Li",
+            "title": "Associate Professor",
+            "avatarUrl": "http://www.sysu-hcp.net/wp-content/uploads/2018/03/linliang.png",
+            "email": "lcl1314 (at) foxmail.com"
+            "website": "http://chenglongli.cn"
         },
         {
-            "name": "张三",
-            "avatarUrl": "https://user-images.githubusercontent.com/50065645/62307550-63a02d00-b4b6-11e9-80f3-da623ab8be8e.png",
-            "email": "zhangsan@ahu.edu.cn"
+            "name": "Chenglong Li",
+            "title": "Associate Professor",
+            "avatarUrl": "http://www.sysu-hcp.net/wp-content/uploads/2018/03/linliang.png",
+            "email": "lcl1314 (at) foxmail.com"
+            "website": "http://chenglongli.cn"
         }
     ]
 }
