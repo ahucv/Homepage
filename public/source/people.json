@@ -22,14 +22,14 @@
     ],
     "students": [{
             "name": "Xiao Wang",
-            "title": "Phd",
+            "title": "PhD Student",
             "avatarUrl": "https://github.com/wangxiao5791509/Homepage/blob/master/public/images/Xiao_Wang_photo.png?raw=true",
             "email": "wangxiaocvpr@foxmail.com",
             "website": "https://sites.google.com/view/xiaowanghomepage/homepage"
         },
         {
             "name": "Yabin Zhu",
-            "title": "Phd",
+            "title": "PhD Student",
             "avatarUrl": "https://user-images.githubusercontent.com/22411299/62405775-4c576180-b5d4-11e9-9244-656c1bddff55.jpg",
             "email": "zhuyabin0726@foxmail.com"
         },
