@@ -51,7 +51,7 @@ const SInfo = styled.div`
         color: #666666;
         font-size: 12px;
         text-align: center;
-        width: 150px;
+        width: 160px;
         margin-left: -5px;
     }
     .title {
