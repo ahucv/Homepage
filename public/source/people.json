@@ -275,6 +275,12 @@
             "title": "Undergraduate Student",
             "avatarUrl": "../images/shiqi_mei.jpg",
             "email": "lolimay@lolimay.cn"
+        },
+        {
+            "name": "Chao Fan",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/32775192/62411112-784d0400-b621-11e9-95a2-b2940c370762.jpg",
+            "email": "1030499604@qq.com"
         }
     ]
 }
