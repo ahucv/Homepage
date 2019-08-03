@@ -139,6 +139,12 @@
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/30587786/62406446-8463a200-b5de-11e9-99d0-7b488e0def1b.jpg",
             "email": "18355607109@163.com"
+        },
+        {
+            "name": "Zheng Fang",
+            "title": "Postgraduate Student",
+            "avatarUrl": "../images/zheng_fang.png",
+            "email":"18843426103@163.com"
         }
     ]
 }
