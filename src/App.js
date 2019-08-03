@@ -1,4 +1,5 @@
 import React from 'react';
+import { AnimatedSwitch } from 'react-router-transition';
 import './App.css';
 
 import Banner from './containers/Banner';
@@ -10,9 +11,10 @@ import { menu as menuConfig } from './config.json'
 class App extends React.Component {
   renderRoutes() {
     return Object.keys(menuConfig).map((item, index) => {
-            return <Route key={index} path={ menuConfig[item] } render={() => {
-             return <MarkdownLoader path={menuConfig[item]}></MarkdownLoader>
-          }} />})
+      return <Route key={index} path={menuConfig[item]} render={() => {
+        return <MarkdownLoader path={menuConfig[item]}></MarkdownLoader>
+      }} />
+    })
   }
 
   render() {
@@ -20,7 +22,14 @@ class App extends React.Component {
       <Router>
         <Route exact path="/" render={() => <Redirect to="/home" />} />
         <Banner></Banner>
-        {this.renderRoutes()}
+        <AnimatedSwitch
+          atEnter={{ opacity: 0 }}
+          atLeave={{ opacity: 0 }}
+          atActive={{ opacity: 1 }}
+          className="switch-wrapper"
+        >
+          {this.renderRoutes()}
+        </AnimatedSwitch>
         <Footer></Footer>
       </Router>
     );

@@ -33,3 +33,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* animations */
+.switch-wrapper {
+  position: relative;
+}
+ 
+.switch-wrapper > div {
+  position: absolute;
+  width: 100%;
+}
