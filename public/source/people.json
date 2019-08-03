@@ -37,6 +37,12 @@
             "email": "1210568677 (at) qq.com"
         },
         {
+            "name": "Yafei Gao",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/34123760/62407287-4c615c80-b5e8-11e9-81cb-7b53f11a067a.jpg",
+            "email": "soarsir(at)foxmail.com"
+        },        
+        {
             "name": "Yan Ma",
             "avatarUrl": "https://user-images.githubusercontent.com/39653289/62406574-b544d680-b5e0-11e9-8e98-142f5a32835f.png",
             "email": "M17856174397@163.com"
@@ -80,6 +86,35 @@
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/53254726/62407095-72d1c880-b5e5-11e9-96c6-e6d0090a11cb.jpg",
             "email": "yangwf1102@163.com"
+        },
+        {
+            "name": "Xianpeng Zhu",
+            "title": "Postgraduate Student",
+            "avatarUrl": "../images/xianpeng_zhu.png",
+            "email": "ahu_zxp@163.com"
+        },
+        {
+            "name": "Wenli Pan",
+            "title": "Postgraduate Student",
+            "avatarUrl": "../images/wenli_pan.png"
+        },
+        {
+            "name": "Xie Yu",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/19261529/62407015-54b79880-b5e4-11e9-94b8-4ebfbf156da9.png",
+            "email": "2425225778@qq.com"
+        },
+        {
+            "name": "Shuyun Zhang",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/40851549/62407358-d231d780-b5e9-11e9-882f-8271bec868ec.jpg",
+            "email": "2823595397@qq.com"
+        },
+        {
+            "name": "Qing Ji",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/53632927/62407440-29847780-b5eb-11e9-98d4-51678c0398fc.jpg",
+            "email": "374980061@qq.com"
         }
     ]
 }
