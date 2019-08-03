@@ -4,6 +4,7 @@ import ReactMarkdown from 'react-markdown';
 import styled from 'styled-components';
 
 import InfoList from '../containers/InfoList';
+import Slider from '../containers/Slider';
 
 class MarkdownLoader extends React.Component {
     constructor(props) {
@@ -15,23 +16,33 @@ class MarkdownLoader extends React.Component {
 
     async componentDidUpdate() {
         const { path } = this.props;
-        if (path === '/people') {
-            const response = await fetch('/source/people.json');
-            const { faculty, students } = await response.json();
-            ReactDOM.render(
-                <InfoList list={faculty} />,
-                document.getElementById('faculty')
-            );
-            ReactDOM.render(
-                <InfoList list={students} />,
-                document.getElementById('students')
-            );
+        switch (path) {
+            case '/home':
+                ReactDOM.render(
+                    <Slider />,
+                    document.getElementById('slider')
+                );
+                break;
+            case '/people':
+                const response = await fetch('/source/people.json');
+                const { faculty, students } = await response.json();
+                ReactDOM.render(
+                    <InfoList list={faculty} />,
+                    document.getElementById('faculty')
+                );
+                ReactDOM.render(
+                    <InfoList list={students} />,
+                    document.getElementById('students')
+                );
+                break;
+            default:
+                break;
         }
     }
 
     async componentDidMount() {
         const { path } = this.props;
-        const response = await fetch(`/source${ path }.md`);
+        const response = await fetch(`/source${path}.md`);
         const result = await response.text();
         this.setState({ content: result });
     }
@@ -40,8 +51,8 @@ class MarkdownLoader extends React.Component {
         return (
             <SMarkdown>
                 <ReactMarkdown
-                    source={ this.state.content }
-                    escapeHtml={ false }
+                    source={this.state.content}
+                    escapeHtml={false}
                 />
             </SMarkdown>
         );
