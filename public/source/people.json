@@ -23,7 +23,7 @@
     "students": [{
             "name": "Xiao Wang",
             "title": "PhD Student",
-            "avatarUrl": "https://github.com/wangxiao5791509/Homepage/blob/master/public/images/Xiao_Wang_photo.png?raw=true",
+            "avatarUrl": "../images/Xiao_Wang_photo.png",
             "email": "wangxiaocvpr@foxmail.com",
             "website": "https://sites.google.com/view/xiaowanghomepage/homepage"
         },
@@ -206,6 +206,18 @@
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/31096967/62408437-8556fc80-b5fb-11e9-98ec-b7a43c5e3d99.jpg",
             "email": "madao3c@foxmail.com"
+        }, 
+        {
+            "name": "Chao Wang",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/53204309/62408459-f5658280-b5fb-11e9-8929-d9d85a137475.jpg",
+            "email": "wchao19971213@163.com"
+        }, 
+        {
+            "name": "Yi Zhu",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/53028633/62408278-f517b800-b5f8-11e9-9b12-5ff570584dbc.jpg",
+            "email": "1203054426@qq.com"
         },
         {
             "name": "Qiuyu Kong",
