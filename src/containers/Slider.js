@@ -8,7 +8,9 @@ class Slider extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
+      trueImages: [],
       images: [],
+      imagesUrls: [],
       currentIndex: 0,
       translateValue: 0
     }
@@ -17,7 +19,8 @@ class Slider extends React.Component {
   componentDidMount() {
     const { interval, images } = this.props;
     this.setState({
-      images: images.map(({ url }) => url)
+      images: images,
+      trueImages: images
     })
     setInterval(() => this.goToNextSlide(), interval * 1000);
   }
@@ -33,16 +36,10 @@ class Slider extends React.Component {
   }
 
   goToNextSlide = () => {
-    if (this.state.currentIndex === this.state.images.length - 1) {
-      return this.setState({
-        currentIndex: 0,
-        translateValue: 0
-      })
-    }
-
     this.setState(prevState => ({
       currentIndex: prevState.currentIndex + 1,
-      translateValue: prevState.translateValue + -(this.slideWidth())
+      translateValue: prevState.translateValue + -(this.slideWidth()),
+      images: this.state.images.concat(this.state.trueImages)
     }));
   }
 
@@ -56,7 +53,6 @@ class Slider extends React.Component {
   }
 
   render() {
-    const { images } = this.props;
     return (
       <div className="slider">
         <div className="slider-wrapper"
@@ -65,7 +61,7 @@ class Slider extends React.Component {
             transition: 'transform ease-out 0.45s'
           }}>
           {
-            images.map(({ url, description }, index) => (
+            this.state.images.map(({ url, description }, index) => (
               <Slide key={index} image={url} description={description} />
             ))
           }
