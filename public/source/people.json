@@ -20,7 +20,7 @@
             "website": "http://www.escience.cn/people/AihuaZheng/index.html"
         }
     ],
-    "students": [{
+    "student": [{
             "name": "Xiao Wang",
             "title": "PhD Student",
             "avatarUrl": "https://github.com/wangxiao5791509/Homepage/blob/master/public/images/Xiao_Wang_photo.png?raw=true",
@@ -104,7 +104,7 @@
             "name": "Wenli Pan",
             "title": "Postgraduate Student",
             "avatarUrl": "../images/wenli_pan.png"
-            "email": "xxx@qq.com"
+            "email": "1669507121@qq.com"
         },
         {
             "name": "Yu Xie",
