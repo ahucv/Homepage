@@ -1,35 +1,35 @@
 {
     "images": [
         {
-            "url": "https://user-images.githubusercontent.com/53565435/62409453-1a60f200-b60a-11e9-8234-5f324d89b0f4.png",
+            "url": "https://images.lolimay.cn/ahucv/slides/intelligent-surveillance-system.jpg",
             "description": "Intelligent Surveillance System"
         },
         {
-            "url": "https://user-images.githubusercontent.com/53565435/62409828-b7725980-b60f-11e9-8a17-1e067d2a1b0c.png",
+            "url": "https://images.lolimay.cn/ahucv/slides/intelligent-vehicle-analysis-system.jpg",
             "description": "Intelligent Vehicle Analysis System"
         },
         {
-            "url": "https://user-images.githubusercontent.com/53565435/62409469-a410bf80-b60a-11e9-9cd5-7ae35f09afcb.png",
+            "url": "https://images.lolimay.cn/ahucv/slides/thermal-image-diagnosis-system.jpg",
             "description": "Thermal Image Diagnosis System"
         },
         {
-            "url": "https://user-images.githubusercontent.com/53565435/62409477-bd197080-b60a-11e9-8d86-348472c82048.png",
+            "url": "https://images.lolimay.cn/ahucv/slides/rgbt-tracking-dataset.png",
             "description": "RGBT Tracking Dataset"
         },
         {
-            "url": "https://user-images.githubusercontent.com/53565435/62409739-965d3900-b60e-11e9-9340-605be9f0a024.png",
+            "url": "https://images.lolimay.cn/ahucv/slides/dynamic-graph-learning-for-visual-tracking.png",
             "description": "Dynamic Graph Learning for Visual Tracking"
         },
         {
-            "url": "https://user-images.githubusercontent.com/53565435/62409733-6f9f0280-b60e-11e9-8347-8449670707d8.png",
+            "url": "https://images.lolimay.cn/ahucv/slides/compact-target-oriented-representation-learning-for-visual-tracking.png",
             "description": "Compact Target-Oriented Representation Learning for Visual Tracking"
         },
         {
-            "url": "https://user-images.githubusercontent.com/53565435/62410897-e80dbf80-b61e-11e9-9048-271154ec1e6b.png",
+            "url": "https://images.lolimay.cn/ahucv/slides/attributes-guided-feature-learning-for-vehicle-re-id.png",
             "description": "Attributes Guided Feature Learning for Vehicle Re-ID"
         },
         {
-            "url": "https://user-images.githubusercontent.com/53565435/62409749-a5dc8200-b60e-11e9-8d40-686823683b54.png",
+            "url": "https://images.lolimay.cn/ahucv/slides/collaborative-graph-learning-for-rgbt-saliency-detection.png",
             "description": "Collaborative Graph Learning for RGBT Saliency Detection"
         }
     ],
