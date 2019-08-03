@@ -47,7 +47,12 @@ class Slider extends React.Component {
   }
 
   slideWidth = () => {
-    return document.querySelector('.slide').clientWidth
+    const slide = document.querySelector('.slide');
+    if (slide) {
+      return slide.clientWidth;
+    } else {
+      return 0;
+    }
   }
 
   render() {
