@@ -1,7 +1,7 @@
-## Faculty
+### Faculty
 
 <div id="faculty"></div>
 
-## Students
+### Students
 
 <div id="students"></div>
