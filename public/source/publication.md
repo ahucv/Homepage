@@ -48,7 +48,7 @@
     
 3.  Chenglong Li, Zhimin Bao, Xiao Wang, and Jin Tang. Moving Object Detection via Robust Background Modeling with Recurring Patterns Voting. Multimedia Tools and Applications (**MTAP**), 77(11): 13557-13570, 2018.  
 
-4.  Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (**ECCV**), 2018. \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)[cmr\_code.rar\](http://chenglongli.cn/system/file?fileId=105967)\[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](/system/file?fileId=105967)[Results\_GTOT.zip](http://chenglongli.cn/system/file?fileId=107245)[\] \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](http://chenglongli.cn/system/file?fileId=105967)[Results\_RGBT210.zip\]](/system/file?fileId=107246)
+4.  Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (**ECCV**), 2018. \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)[cmr\_code.rar\]\[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](http://chenglongli.cn/system/file?fileId=105967)[Results\_GTOT.zip](http://chenglongli.cn/system/file?fileId=107245)[\] \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](http://chenglongli.cn/system/file?fileId=105967)[Results\_RGBT210.zip\]](/system/file?fileId=107246)
     
 5.  Xiao Wang, Chenglong Li, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracking via Adversarial Positive Instance  Generation. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**),  2018. \[[Project page](https://sites.google.com/view/cvpr2018sintplusplus/)\]
     
@@ -60,7 +60,7 @@
 
 9.  Aihua Zheng, Foqin Wang, Amir Hussain, Jin Tang, and Bo Jiang, Spatial-temporal representatives selection and weighted patch descriptor for person re-identification, (**NEUCOM**), 290:121-129, 2018. 
 
-10. Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and Chenglong Li. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-CSVT**), 2018.
+10. Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and Chenglong Li. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), 2018.
 
 11.  Aihua Zheng, Hongchao Li,Bo Jiang, Chenglong Li, Jin Tang, and Bin Luo. Non-negative Dual Graph Regularized Sparse Ranking for Multi-shot Person Re-identification.Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**), 2018.
 
