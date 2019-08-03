@@ -62,7 +62,6 @@ class MarkdownLoader extends React.Component {
 }
 
 const SMarkdown = styled.div`
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     padding: 10px 50px;
     background: white;
