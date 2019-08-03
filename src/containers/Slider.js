@@ -90,20 +90,22 @@ const Slide = ({ image, description }) => {
   }
   return (
     <React.Fragment>
-      <div className="slide" style={styles}></div>
+      <div className="slide" style={styles}>
       {description ? <SDescriptions>{description}</SDescriptions> : undefined}
+      </div>
     </React.Fragment>
   );
 }
 
 const SDescriptions = styled.div`
   position: absolute;
-  bottom: -50px;
+  bottom: 0px;
   left: 0;
   right: 0;
-  color: black;
+  color: white;
   padding: 10px 20px;
   display: flex;
+  background: rgba(0, 0, 0, 0.75);
   @media (max-width: 450px) {
     font-size: 12px;
   }

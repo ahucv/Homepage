@@ -1,7 +1,7 @@
 .slider {
   position: relative;
   width: 100%;
-  margin: 10px 0;
+  margin: 0;
   height: 600px;
   overflow: hidden;
   white-space: nowrap;
@@ -22,7 +22,7 @@
   height: 100%;
   width: 100%;
   position: relative;
-  background: center/95%;
+  background: center/100%;
 }
 
 .arrow {
