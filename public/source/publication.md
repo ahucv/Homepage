@@ -1,5 +1,5 @@
 
-## Selected publications
+## Selected Publications
 
 ### Preprint
 
@@ -7,9 +7,9 @@
 
 2. Chenglong Li, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. [arXiv:1907.10303](https://arxiv.org/abs/1907.10303), 2019.  
     
-3. Yabin Zhu, Chenglong Li , Yijuan Lu, Liang Lin, Bin Luo, and Jin Tang. FANet: Quality-Aware Feature Aggregation Network for RGB-T Tracking. \[[arXiv](https://arxiv.org/abs/1811.09855)\]
+3. Yabin Zhu, Chenglong Li,  Yijuan Lu, Liang Lin, Bin Luo, and Jin Tang. FANet: Quality-Aware Feature Aggregation Network for RGB-T Tracking. \[[arXiv](https://arxiv.org/abs/1811.09855)\]
     
-4. Xiao Wang, Chenglong Li, Rui Yang, Tianzhu Zhang, Jin Tang, Bin Luo. Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking. \[[arXiv](https://arxiv.org/abs/1811.10014?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)\]  
+4. Xiao Wang,  Chenglong Li,  Rui Yang,  Tianzhu Zhang, Jin Tang, and Bin Luo. Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking. \[[arXiv](https://arxiv.org/abs/1811.10014?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)\]  
    
    
 ### In press  
@@ -22,7 +22,7 @@
 
 4. Zhengzheng Tu, Tian Xia, Chenglong Li , Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**TMM**), in press.
     
-5. Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li \***. A Subspace Learning Approach to Multi-Shot Person Re-Identification. IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), in press.
+5. Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and Chenglong Li . A Subspace Learning Approach to Multi-Shot Person Re-Identification. IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), in press.
 
 
 ### 2019
@@ -48,10 +48,9 @@
     
 3.  Chenglong Li, Zhimin Bao, Xiao Wang, and Jin Tang. Moving Object Detection via Robust Background Modeling with Recurring Patterns Voting. Multimedia Tools and Applications (**MTAP**), 77(11): 13557-13570, 2018.  
 
-4.  Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (**ECCV**), 2018. \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[cmr\_code.rar\] \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)](/system/file?fileId=105967)[Results\_GTOT.zip](/system/file?fileId=107245)[\] \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)](/system/file?fileId=105967)[Results\_RGBT210.zip\]  
-    ](/system/file?fileId=107246)
+4.  Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (**ECCV**), 2018. \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)[cmr\_code.rar\](http://chenglongli.cn/system/file?fileId=105967)\[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](/system/file?fileId=105967)[Results\_GTOT.zip](http://chenglongli.cn/system/file?fileId=107245)[\] \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](http://chenglongli.cn/system/file?fileId=105967)[Results\_RGBT210.zip\]](/system/file?fileId=107246)
     
-5.  Xiao Wang, Chenglong Li, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracking via Adversarial Positive Instance  Generation. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2018. \[[Project page](https://sites.google.com/view/cvpr2018sintplusplus/)\]
+5.  Xiao Wang, Chenglong Li, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracking via Adversarial Positive Instance  Generation. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**),  2018. \[[Project page](https://sites.google.com/view/cvpr2018sintplusplus/)\]
     
 6.  Ran Zhong, Wenzhong Wang, Chenglong Li, Aihua Zheng, and Jin Tang. Exploring Scene Geometry For Scale Adaptive Object Tracking In Surveillance Videos. IEEE International Conference on Image Processing (**ICIP**), 2018.
 
@@ -59,17 +58,17 @@
     
 8.  Sen Yang, Bin Luo, Chenglong Li . Guizhao Wang, and Jin Tang. Fast Grayscale-Thermal Foreground Detection with Collaborative Low-Rank Decomposition. IEEE Transactions on Circuits and Systems for Video Technology  (**T-CSVT**), 28(10): 2574 - 2585, 2018.  
 
-9.  Aihua Zheng, Foqin Wang, Amir Hussain, Jin Tang, Bo Jiang, Spatial-temporal representatives selection and weighted patch descriptor for person re-identification, (**NEUCOM**), 290:121-129, 2018. 
+9.  Aihua Zheng, Foqin Wang, Amir Hussain, Jin Tang, and Bo Jiang, Spatial-temporal representatives selection and weighted patch descriptor for person re-identification, (**NEUCOM**), 290:121-129, 2018. 
 
-10. Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and Chenglong Li. A Subspace Learning Approach to Multi-Shot Person Re-Identification. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2018.
+10. Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and Chenglong Li. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-CSVT**), 2018.
 
-11.  Aihua Zheng, Hongchao Li,Bo Jiang, Chenglong Li, Jin Tang and Bin Luo. Non-negative Dual Graph Regularized Sparse Ranking for Multi-shot Person Re-identification.Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**), 2018.
+11.  Aihua Zheng, Hongchao Li,Bo Jiang, Chenglong Li, Jin Tang, and Bin Luo. Non-negative Dual Graph Regularized Sparse Ranking for Multi-shot Person Re-identification.Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**), 2018.
 
-12.  Aihua Zheng, Yumiao Zhao, Chenglong Li, Jin Tang and Bin Luo. Multispectral Foreground Detection via Robust Cross-Modal Low-Rank Decomposition. Pacific-Rim Conference on Multimedia (**PCM**), 2018.
+12.  Aihua Zheng, Yumiao Zhao, Chenglong Li, Jin Tang, and Bin Luo. Multispectral Foreground Detection via Robust Cross-Modal Low-Rank Decomposition. Pacific-Rim Conference on Multimedia (**PCM**), 2018.
 
-13.  Aihua Zheng, Yumiao Zhao, Chenglong Li, Jin Tang and Bin Luo. Moving Object Detection via Robust Low-Rank and Sparse Separating with High-Order Structural Constraint, IEEE Fourth International Conference on Multimedia Big Data (**BigMM**), 2018. (**Oral**)
+13.  Aihua Zheng, Yumiao Zhao, Chenglong Li, Jin Tang, and Bin Luo. Moving Object Detection via Robust Low-Rank and Sparse Separating with High-Order Structural Constraint, IEEE Fourth International Conference on Multimedia Big Data (**BigMM**), 2018. (**Oral**)
 
-14.  Dengdi Sun, Lidan Liu, Aihua Zheng, Bo Jiang and Bin Luo. Visual Cognition Inspired Vehicle Re-identification via Correlative Sparse Ranking with Multi-view Deep Features. (eds) Advances in Brain Inspired Cognitive Systems (**BICS**), 2018. (**Oral**)
+14.  Dengdi Sun, Lidan Liu, Aihua Zheng, Bo Jiang, and Bin Luo. Visual Cognition Inspired Vehicle Re-identification via Correlative Sparse Ranking with Multi-view Deep Features. (eds) Advances in Brain Inspired Cognitive Systems (**BICS**), 2018. (**Oral**)
 
 
 ### 2017
@@ -92,13 +91,13 @@
 
 9.  Bo Jiang, Jin Tang, Aihua Zheng and Bin Luo.Image representation and matching with geometric-edge random structure graph,Pattern Recognition Letters, 87: 20-28, 2017.
 
-10. FoqinWang, Xuehan Zhang, Jinxin Ma, Jin Tang and Aihua Zheng. Manifold ranking weighted local maximal occurrence descriptor for person re-identification.IEEE 15th International Conference on Software Engineering Research, Management and Applications (**SERA**),2017.(**Best Paper**)
+10. FoqinWang, Xuehan Zhang, Jinxin Ma, Jin Tang and Aihua Zheng. Manifold ranking weighted local maximal occurrence descriptor for person re-identification.IEEE 15th International Conference on Software Engineering Research, Management and Applications (**SERA**), 2017. (**Best Paper**)
 
-11. Minghe Xu, Chenglong Li, Hanqin Shi, Jin Tang and Aihua Zheng Moving Object Detection via Integrating Spatial Compactness and Appearance Consistency in the Low-Rank Representation.CCF Chinese Conference on Computer Vision(**CCCV**),2017.(**Oral**)
+11. Minghe Xu, Chenglong Li, Hanqin Shi, Jin Tang and Aihua Zheng. Moving Object Detection via Integrating Spatial Compactness and Appearance Consistency in the Low-Rank Representation.CCF Chinese Conference on Computer Vision (**CCCV**), 2017. (**Oral**)
  
-12. Bo Jiang, Jin Tang, Chris Ding and Bin Luo. Nonnegative Orthogonal Graph Matching. AAAI Conference on Artificial Intelligence (**AAAI**),2017.
+12. Bo Jiang, Jin Tang, Chris Ding and Bin Luo. Nonnegative Orthogonal Graph Matching. AAAI Conference on Artificial Intelligence (**AAAI**),   2017.
 
-13. Bo Jiang, Jin Tang, Xiaochun Cao and Bin Luo. Lagrangian relaxation graph matching. Pattern Recognition(**PR**),2017.
+13. Bo Jiang, Jin Tang, Xiaochun Cao and Bin Luo. Lagrangian relaxation graph matching. Pattern Recognition(**PR**), 2017.
 
 
 ### 2016
@@ -113,11 +112,11 @@
     
 5.  Liang Lin, Wei Yang,  Chenglong Li, Jin Tang, and Xiaochun Cao. Inference with Cooperative Model for Interactive Medical Image Sequence Segmentation. IEEE Transactions on Cybernetics (**T-CYB**), 46(12): 2796-2809, 2016.  \[[Project page](http://vision.sysu.edu.cn/projects/med-interactive-seg/) with dataset\]
 
-6.  Zhengzheng Tu, Andrew Abel, Lei Zhang, Bin Luo and  Amir Hussain.A New Spatio-Temporal Saliency-Based Video Object Segmentation.Cognitive Computation, 2016.
+6.  Zhengzheng Tu, Andrew Abel, Lei Zhang, Bin Luo, and  Amir Hussain.A New Spatio-Temporal Saliency-Based Video Object Segmentation.Cognitive Computation, 2016.
 
-7. Meili Zhao, Bo Jiang, Bin Luo and Jin Tang. Common Visual Patterns Discovery with an Elastic Matching. Cognitive Computation, 8(5): 839-846.2016.
+7. Meili Zhao, Bo Jiang, Bin Luo, and Jin Tang. Common Visual Patterns Discovery with an Elastic Matching. Cognitive Computation, 8(5): 839-846. 2016.
 
-8. Youxia Cao, Bo Jiang, Zhuqiang Chen, Jin Tang and Bin Luo. Low-Rank Image Set Representation and Classification.International Conference on Brain Inspired Cognitive Systems (**CIS**),2016.
+8. Youxia Cao, Bo Jiang, Zhuqiang Chen, Jin Tang, and Bin Luo. Low-Rank Image Set Representation and Classification.International Conference on Brain Inspired Cognitive Systems (**CIS**), 2016.
 
 
 ### 2015
@@ -126,22 +125,22 @@
 
 2.  Chenglong Li, Liang Lin, Wangmeng Zuo, Shuicheng Yan, and Jin Tang. SOLD: Sub-Optimal Low-Rank Decomposition for Efficient Video Segmentation.  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Boston, 2015. \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[SOLD-code.rar](/system/file?fileId=83421)\] \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[SOLD-results.rar](/system/file?fileId=83420)  on VSB100\]  
 
-3. Zhengzheng Tu, Aihua Zheng, Erfu Yang, Bin Luo and Amir Hussain. ABiologically Inspired Vision-Based Approach for Detecting MultipleMoving Objects in Complex Outdoor Scenes. Cognitive Computation, 7(5)：539-551,2015.
+3. Zhengzheng Tu, Aihua Zheng, Erfu Yang, Bin Luo, and Amir Hussain. ABiologically Inspired Vision-Based Approach for Detecting MultipleMoving Objects in Complex Outdoor Scenes. Cognitive Computation, 7(5)：539-551, 2015.
 
-4. Bo Jiang, Jin Tang, Chris Ding and Bin Luo. A Local Sparse Model for Matching Problem.AAAI Conference on Artificial Intelligence (**AAAI***),2015.
+4. Bo Jiang, Jin Tang, Chris Ding, and Bin Luo. A Local Sparse Model for Matching Problem.AAAI Conference on Artificial Intelligence (**AAAI***), 2015.
 
-5. Haifeng Zhao, Bo Jiang, Jin Tang and Bin Luo. Image Matching using a Local Distribution based Outlier Detection Technique. Neurocomputing (**NEUCOM**).148: 611-618,2015.
+5. Haifeng Zhao, Bo Jiang, Jin Tang, and Bin Luo. Image Matching using a Local Distribution based Outlier Detection Technique. Neurocomputing (**NEUCOM**).148: 611-618, 2015.
 
 
 ### Before 2014
 
-1. Jin Tang, Bo Jiang, Aihua Zheng, and Bin Luo.Graph matching based on spectral embedding with missing value.Pattern Recognition (**PR**),45(10): 3768--3779,2012.
+1. Jin Tang, Bo Jiang, Aihua Zheng, and Bin Luo.Graph matching based on spectral embedding with missing value.Pattern Recognition (**PR**),45(10): 3768--3779, 2012.
 
-2. Aihua Zheng, Jixin Ma, Jin Tang and Bin Luo. Matching state-based sequences with rich temporal aspects. AAAI Conference on Artificial Intelligence (**AAAI***), 2012.
+2. Aihua Zheng, Jixin Ma, Jin Tang, and Bin Luo. Matching state-based sequences with rich temporal aspects. AAAI Conference on Artificial Intelligence (**AAAI**), 2012.
 
-3. Bo Jiang, Jin Tang, Bin Luo and Liang Lin.Robust Feature Point Matching With Sparse Model.IEEE Transactions on Image Processing, (**T-IP**) 23(12): 5175-5186,2014.
+3. Bo Jiang, Jin Tang, Bin Luo, and Liang Lin.Robust Feature Point Matching With Sparse Model.IEEE Transactions on Image Processing, (**T-IP**) 23(12): 5175-5186, 2014.
 
-4. Bo Jiang, Haifeng Zhao, Jin Tang and Bin Luo.  A sparse nonnegative matrix factorization technique for graph matching problem
-Pattern Recognition(**PR**),2014.
+4. Bo Jiang, Haifeng Zhao, Jin Tang, and Bin Luo.  A sparse nonnegative matrix factorization technique for graph matching problem
+Pattern Recognition(**PR**), 2014.
 
-5. Bo Jiang, Chris Ding, Bin Luo and Jin Tang. Graph-Laplacian PCA: Closed-form Solution and Robustness.IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**),2013.
+5. Bo Jiang, Chris Ding, Bin Luo, and Jin Tang. Graph-Laplacian PCA: Closed-form Solution and Robustness.IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2013.
