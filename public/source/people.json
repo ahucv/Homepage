@@ -34,10 +34,16 @@
             "email": "1210568677 (at) qq.com"
         },
         {
+            "name": "Xiao Wang",
+            "title": "Phd",
+            "avatarUrl": "https://github.com/wangxiao5791509/Homepage/blob/master/public/images/Xiao_Wang_photo.png",
+            "email": "wangxiaocvpr@foxmail.com",
+            "website": "https://sites.google.com/view/xiaowanghomepage/homepage"
+        },
+        {
             "name": "Wenjie Li",
             "avatarUrl": "https://user-images.githubusercontent.com/52265815/62406442-73b32c00-b5de-11e9-90d0-382d3b2599a0.jpg",
             "email": "1477910522@qq.com"
         }
-        
     ]
 }
