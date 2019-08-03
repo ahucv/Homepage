@@ -17,3 +17,9 @@
    **Citation:** Chenglong Li, Liang Lin, Wangmeng Zuo, Shuicheng Yan, and Jin Tang. SOLD: Sub-Optimal Low-Rank Decomposition for Efficient Video Segmentation.  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
    
    Chenglong Li, Liang Lin, Wangmeng Zuo, Wenzhong Wang, and Jin Tang.An Approach to Streaming Video Segmentation with Sub-Optimal Low-rank Decomposition. IEEE Transactions on Image Processing (T-IP), 25(5): 1947-1960, 2016.
+   
+### Saliency Detection
+
+1. **Aggregating Complementary Appearance Contrast Measures**: [[pisa_code]](https://github.com/kezewang/pixelwiseImageSaliencyAggregation)
+
+**Citation:** Keze Wang and Liang Lin and Jiangbo Lu and Chenglong Li and Keyang Shi. PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures With Edge-Preserving Coherence. IEEE Transactions on Image Processing (TIP), 24(10): 3019-3033, 2015.
