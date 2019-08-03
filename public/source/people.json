@@ -1,5 +1,6 @@
 {
-    "faculty": [{
+    "faculty": [
+        {
             "name": "Jin Tang",
             "title": "Professor",
             "avatarUrl": "https://user-images.githubusercontent.com/53565435/62385594-1ab8a900-b588-11e9-94ab-eb2f3c1c279e.png",
@@ -20,7 +21,8 @@
             "website": "http://www.escience.cn/people/AihuaZheng/index.html"
         }
     ],
-    "students": [{
+    "students": [
+        {
             "name": "Yabin Zhu",
             "title": "Phd",
             "avatarUrl": "https://user-images.githubusercontent.com/22411299/62405775-4c576180-b5d4-11e9-9244-656c1bddff55.jpg",
@@ -46,7 +48,7 @@
             "avatarUrl": "https://user-images.githubusercontent.com/39653289/62406614-487e0c00-b5e1-11e9-8737-09bb00ce041b.png",
             "email": "1336462834@qq.com"
         },
-        {
+         {
             "name": "Yuqing Yan",
             "avatarUrl": "https://user-images.githubusercontent.com/38448650/62406719-a65f2380-b5e2-11e9-9a15-697449c22fc7.jpg",
             "email": "2539372545@qq.com"
@@ -54,26 +56,21 @@
         {
             "name": "Xiao Wang",
             "title": "Phd",
-            "avatarUrl": "https://github.com/wangxiao5791509/Homepage/blob/master/public/images/Xiao_Wang_photo.png?raw=true",
+            "avatarUrl": "https://github.com/wangxiao5791509/Homepage/blob/master/public/images/Xiao_Wang_photo.png",
             "email": "wangxiaocvpr@foxmail.com",
             "website": "https://sites.google.com/view/xiaowanghomepage/homepage"
-        },
-        {
-            "name": "Wenjie Li",
-            "avatarUrl": "https://user-images.githubusercontent.com/52265815/62406442-73b32c00-b5de-11e9-90d0-382d3b2599a0.jpg",
-            "email": "1477910522@qq.com"
-        },
-        {
-            "name": "Cun Qian",
-            "title": "Postgraduate Student",
-            "avatarUrl": "https://user-images.githubusercontent.com/48269129/62406550-55e6c680-b5e0-11e9-9d86-ab991f24dd5f.png",
-            "email": "871638346@qq.com"
         },
         {
             "name": "Liu Liang",
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/49422310/62406732-d8708580-b5e2-11e9-80f8-e12a92a16c27.jpeg",
             "email": "liualex1109@163.com"
+        }
+        {
+            "name": "Lanlan Yang",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/46238909/62407056-d4ddfe00-b5e4-11e9-9a80-f18b59638be6.png",
+            "email": "namyeung@qq.com"
         }
     ]
 }
