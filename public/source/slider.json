@@ -5,6 +5,10 @@
             "description": "Intelligent Surveillance System"
         },
         {
+            "url": "https://user-images.githubusercontent.com/53565435/62409828-b7725980-b60f-11e9-8a17-1e067d2a1b0c.png",
+            "description": "Intelligent Vehicle Analysis System"
+        },
+        {
             "url": "https://user-images.githubusercontent.com/53565435/62409469-a410bf80-b60a-11e9-9cd5-7ae35f09afcb.png",
             "description": "Thermal Image Diagnosis System"
         },
@@ -14,16 +18,19 @@
         },
         {
             "url": "https://user-images.githubusercontent.com/53565435/62409739-965d3900-b60e-11e9-9340-605be9f0a024.png",
-            "description": "Dynamic Graph Learning"
+            "description": "Dynamic Graph Learning for Visual Tracking"
         },
         {
             "url": "https://user-images.githubusercontent.com/53565435/62409733-6f9f0280-b60e-11e9-8347-8449670707d8.png",
-            "description": "Compact Target-Oriented Representation Learning"
+            "description": "Compact Target-Oriented Representation Learning for Visual Tracking"
         },
-        
+        {
+            "url": "https://user-images.githubusercontent.com/53565435/62410897-e80dbf80-b61e-11e9-9048-271154ec1e6b.png",
+            "description": "Attributes Guided Feature Learning for Vehicle Re-ID"
+        },
         {
             "url": "https://user-images.githubusercontent.com/53565435/62409749-a5dc8200-b60e-11e9-8d40-686823683b54.png",
-            "description": "Collaborative Graph Learning"
+            "description": "Collaborative Graph Learning for RGBT Saliency Detection"
         }
     ],
     "configrations": {
