@@ -1,1 +1,6 @@
-# News
+- A subset of our RGBT234 dataset is used in VOT-RGBT2019 challenge
+- 1 paper accepted to PR 2019
+- 1 paper accepted to ACM MM 2019
+- 1 paper accepted to IEEE T-MM 2019
+- 1 paper accepted to IEEE T-PAMI 2019
+- 1 paper accepted to IEEE T-CSVT 2019
