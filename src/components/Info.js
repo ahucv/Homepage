@@ -4,9 +4,12 @@ import styled from 'styled-components';
 class Info extends React.Component {
     render() {
         const { name, avatarUrl, email, website, title } = this.props;
+        const PUBLIC_PATH = process.env.PUBLIC_URL;
         return (
             <SInfo>
-                <div className='image-box'><IImage src={avatarUrl} avatar={avatarUrl} alt={name}></IImage></div>
+                <div className='image-box'>
+                    <IImage src={`${PUBLIC_PATH}/images/transparent.png`} avatar={avatarUrl} alt={name}></IImage>
+                </div>
                 {website ? (
                     <div className='name'><a href={website}>{name}</a></div>)
                     : (<div className='name'>{name}</div>)
@@ -48,7 +51,7 @@ const SInfo = styled.div`
         color: #666666;
         font-size: 12px;
         text-align: center;
-        width: 150px;
+        width: 160px;
         margin-left: -5px;
     }
     .title {
@@ -64,7 +67,8 @@ const IImage = styled.img`
     border-radius: 50%;
     margin-bottom: 5px;
     border: 5px solid rgba(255, 255, 255, 0.6);
-    background: url(${ ({ src }) => src });
+    background: url(${ ({ avatar }) => avatar }) center/110% no-repeat;
+    box-shadow: 0 0 5px 0 rgb(230, 230, 230);
 `;
 
 export default Info;
