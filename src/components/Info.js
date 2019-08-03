@@ -14,7 +14,7 @@ class Info extends React.Component {
                     <div className='name'><a href={website}>{name}</a></div>)
                     : (<div className='name'>{name}</div>)
                 }
-                <div className='email' >{email.replace(/@/, ' [AT] ')}</div>
+                <div className='email' >{email.replace(/@/, ' (at) ')}</div>
                 <div className='title'>{title}</div>
             </SInfo>
         );
