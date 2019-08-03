@@ -29,11 +29,6 @@
             "email": "zhuyabin0726@foxmail.com"
         },
         {
-            "name": "Zheng Fang",
-            "avatarUrl": "https://user-images.githubusercontent.com/53565435/62385216-0cb65880-b587-11e9-87fd-995b2724d6c2.png",
-            "email": "18843426103 (at) 163.com"
-        },
-        {
             "name": "Lei Liu",
             "avatarUrl": "https://user-images.githubusercontent.com/43487243/62405436-b7526980-b5cf-11e9-9334-12f340369f60.png",
             "email": "1210568677 (at) qq.com"
@@ -44,6 +39,11 @@
             "avatarUrl": "https://github.com/wangxiao5791509/Homepage/blob/master/public/images/Xiao_Wang_photo.png",
             "email": "wangxiaocvpr@foxmail.com",
             "website": "https://sites.google.com/view/xiaowanghomepage/homepage"
+        },
+        {
+            "name": "Wenjie Li",
+            "avatarUrl": "https://user-images.githubusercontent.com/52265815/62406442-73b32c00-b5de-11e9-90d0-382d3b2599a0.jpg",
+            "email": "1477910522@qq.com"
         }
     ]
 }
