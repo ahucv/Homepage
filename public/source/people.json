@@ -207,17 +207,24 @@
             "avatarUrl": "https://user-images.githubusercontent.com/53636752/62408532-21cdce80-b5fd-11e9-8bca-2dea8f0ae9fa.jpg",
             "email": "2442387281@qq.com"
         },
+        {
             "name": "Chao Wang",
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/53204309/62408459-f5658280-b5fb-11e9-8929-d9d85a137475.jpg",
             "email": "wchao19971213@163.com"
-        }, 
+        },
         {
             "name": "Yi Zhu",
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/53028633/62408278-f517b800-b5f8-11e9-9b12-5ff570584dbc.jpg",
             "email": "1203054426@qq.com"
-        },  
+        },
+        {
+            "name": "Yuan Gao",
+            "title": "Undergraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/32775192/62408775-7161c980-b600-11e9-9f71-718c97dfee7e.png",
+            "email": "1003477623@qq.com"
+        }, 
         {
             "name": "Qiuyu Kong",
             "title": "Undergraduate Student",
