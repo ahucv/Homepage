@@ -23,7 +23,7 @@ class Info extends React.Component {
 
 const SInfo = styled.div`
     height: 230px;
-    margin: 15px 10px;
+    margin: 15px 20px;
     display: inline-block;
     .image-box {
         position: relative;
@@ -46,18 +46,20 @@ const SInfo = styled.div`
     }
     .name {
         text-align: center;
+        margin-left: -10px;
     }
     .email {
         color: #666666;
         font-size: 12px;
         text-align: center;
-        width: 160px;
-        margin-left: -5px;
+        width: 170px;
+        margin-left: -10px;
     }
     .title {
         color: #999999;
         font-size: 12px;
         text-align: center;
+        margin-left: -10px;
     }
 `;
 
