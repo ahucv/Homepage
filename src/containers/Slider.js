@@ -106,6 +106,9 @@ const SDescriptions = styled.div`
   color: rgba(250, 250, 250, 0.9);
   padding: 10px 20px;
   display: flex;
+  @media (max-width: 450px) {
+    font-size: 12px;
+  }
 `;
 
 const LeftArrow = (props) => {
