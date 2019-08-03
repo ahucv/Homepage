@@ -40,7 +40,7 @@
             "name": "Yafei Gao",
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/34123760/62407287-4c615c80-b5e8-11e9-81cb-7b53f11a067a.jpg",
-            "email": "soarsir(at)foxmail.com"
+            "email": "soarsir (at) foxmail.com"
         },        
         {
             "name": "Yan Ma",
@@ -115,6 +115,12 @@
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/53632927/62407440-29847780-b5eb-11e9-98d4-51678c0398fc.jpg",
             "email": "374980061@qq.com"
+        },
+        {
+            "name": "Ming Wang",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/49722029/62407172-b1b44e00-b5e6-11e9-9cb5-ca87ef02e77a.jpg",
+            "email": "fit.wang@foxmail.com"
         }
     ]
 }
