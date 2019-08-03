@@ -207,6 +207,12 @@
             "title": "Undergraduate Student",
             "avatarUrl": "../images/shiqi_mei.jpg",
             "email": "lolimay@lolimay.cn"
+        },
+        {
+            "name": "Chao Wang",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/53204309/62408385-f21dc700-b5fa-11e9-9b07-56ce3b2bb519.jpg",
+            "email": "wchao19971213@163.com"
         }
     ]
 }
