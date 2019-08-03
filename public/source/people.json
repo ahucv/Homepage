@@ -37,12 +37,13 @@
             "name": "Lei Liu",
             "avatarUrl": "https://user-images.githubusercontent.com/43487243/62405436-b7526980-b5cf-11e9-9334-12f340369f60.png",
             "email": "1210568677 (at) qq.com"
-        }
+        },
         {
-            "name": "Haoqiang Sun",
-            "title": "Postgraduate Student",
-            "avatarUrl": "https://user-images.githubusercontent.com/53632826/62406616-4b78fc80-b5e1-11e9-924e-eb47d3573d73.jpg",
-            "email": "shqiang_97@163.com"
+            "name": "Xiao Wang",
+            "title": "Phd",
+            "avatarUrl": "https://github.com/wangxiao5791509/Homepage/blob/master/public/images/Xiao_Wang_photo.png",
+            "email": "wangxiaocvpr@foxmail.com",
+            "website": "https://sites.google.com/view/xiaowanghomepage/homepage"
         }
     ]
 }
