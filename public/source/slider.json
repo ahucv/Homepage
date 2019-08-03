@@ -1,0 +1,39 @@
+{
+    "images": [
+        {
+            "url": "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/canyon.jpg",
+            "description": "Ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "url": "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/aurora.jpg",
+            "description": "Sed porttitor velit vel nunc varius iaculis"
+        },
+        {
+            "url": "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/city.jpg",
+            "description": "Curabitur condimentum velit quis tortor efficitur maximus."
+        },
+        {
+            "url": "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/desert.jpg",
+            "description": "Suspendisse sit amet augue pulvinar, dignissim nulla vel, scelerisque diam."
+        },
+        {
+            "url": "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/mountains.jpg",
+            "description": "Integer nec diam bibendum, vehicula ipsum eget, euismod elit."
+        },
+        {
+            "url": "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/redsky.jpg",
+            "description": "Maecenas neque elit, volutpat at lectus ac, volutpat blandit orci."
+        },
+        {
+            "url": "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/sandy-shores.jpg",
+            "description": "Mauris est nunc, rhoncus lobortis imperdiet dictum, aliquet sit amet erat."
+        },
+        {
+            "url": "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/tree-of-life.jpg",
+            "description": "Etiam dictum ligula massa, a lacinia felis bibendum id."
+        }
+    ],
+    "configrations": {
+        "interval": 10
+    }
+}

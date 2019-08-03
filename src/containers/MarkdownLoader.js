@@ -18,8 +18,10 @@ class MarkdownLoader extends React.Component {
         const { path } = this.props;
         switch (path) {
             case '/home':
+                const sliderPromise = await fetch('/source/slider.json');
+                const { images, configrations: { interval } } = await sliderPromise.json();
                 ReactDOM.render(
-                    <Slider />,
+                    <Slider images={images} interval={interval} />,
                     document.getElementById('slider')
                 );
                 break;

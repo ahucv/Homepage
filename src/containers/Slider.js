@@ -1,5 +1,6 @@
 import React from 'react';
 import './Slider.css';
+import styled from 'styled-components';
 import LEFT_ARROW_URL from '../assets/images/left-arrow.svg';
 import RIGHT_ARROW_URL from '../assets/images/right-arrow.svg';
 
@@ -7,23 +8,18 @@ class Slider extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      images: [
-        "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/aurora.jpg",
-        "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/canyon.jpg",
-        "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/city.jpg",
-        "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/desert.jpg",
-        "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/mountains.jpg",
-        "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/redsky.jpg",
-        "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/sandy-shores.jpg",
-        "https://s3.us-east-2.amazonaws.com/dzuz14/thumbnails/tree-of-life.jpg"
-      ],
+      images: [],
       currentIndex: 0,
       translateValue: 0
     }
   }
 
   componentDidMount() {
-    setInterval(() => this.goToNextSlide(), 10 * 1000);
+    const { interval, images } = this.props;
+    this.setState({
+      images: images.map(({ url }) => url)
+    })
+    setInterval(() => this.goToNextSlide(), interval * 1000);
   }
 
   goToPrevSlide = () => {
@@ -55,17 +51,17 @@ class Slider extends React.Component {
   }
 
   render() {
+    const { images } = this.props;
     return (
       <div className="slider">
-
         <div className="slider-wrapper"
           style={{
             transform: `translateX(${this.state.translateValue}px)`,
             transition: 'transform ease-out 0.45s'
           }}>
           {
-            this.state.images.map((image, i) => (
-              <Slide key={i} image={image} />
+            images.map(({ url, description }, index) => (
+              <Slide key={index} image={url} description={description} />
             ))
           }
         </div>
@@ -82,16 +78,30 @@ class Slider extends React.Component {
   }
 }
 
-const Slide = ({ image }) => {
+const Slide = ({ image, description }) => {
   const styles = {
     backgroundImage: `url(${image})`,
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: '50% 60%'
   }
-  return <div className="slide" style={styles}></div>
+  return (
+    <div className="slide" style={styles}>
+      <SDescriptions>{ description }</SDescriptions>
+    </div>
+  );
 }
 
+const SDescriptions = styled.div`
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.75);
+  color: rgba(250, 250, 250, 0.9);
+  padding: 10px 20px;
+  display: flex;
+`;
 
 const LeftArrow = (props) => {
   const styles = {
