@@ -22,4 +22,4 @@
 
 1. **Aggregating Complementary Appearance Contrast Measures**: [[pisa_code]](https://github.com/kezewang/pixelwiseImageSaliencyAggregation)
 
-**Citation:** Keze Wang and Liang Lin and Jiangbo Lu and Chenglong Li and Keyang Shi. PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures With Edge-Preserving Coherence. IEEE Transactions on Image Processing (TIP), 24(10): 3019-3033, 2015.
+   **Citation:** Keze Wang and Liang Lin and Jiangbo Lu and Chenglong Li and Keyang Shi. PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures With Edge-Preserving Coherence. IEEE Transactions on Image Processing (TIP), 24(10): 3019-3033, 2015.
