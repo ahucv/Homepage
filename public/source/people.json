@@ -1,6 +1,5 @@
 {
-    "faculty": [
-        {
+    "faculty": [{
             "name": "Jin Tang",
             "title": "Professor",
             "avatarUrl": "https://user-images.githubusercontent.com/53565435/62385594-1ab8a900-b588-11e9-94ab-eb2f3c1c279e.png",
@@ -21,8 +20,7 @@
             "website": "http://www.escience.cn/people/AihuaZheng/index.html"
         }
     ],
-    "students": [
-        {
+    "students": [{
             "name": "Yabin Zhu",
             "title": "Phd",
             "avatarUrl": "https://user-images.githubusercontent.com/22411299/62405775-4c576180-b5d4-11e9-9244-656c1bddff55.jpg",
@@ -44,8 +42,8 @@
             "avatarUrl": "https://user-images.githubusercontent.com/39653289/62406614-487e0c00-b5e1-11e9-8737-09bb00ce041b.png",
             "email": "1336462834@qq.com"
         },
-         {
-            "name": "yuqing yan",
+        {
+            "name": "Yuqing Yan",
             "avatarUrl": "https://user-images.githubusercontent.com/38448650/62406719-a65f2380-b5e2-11e9-9a15-697449c22fc7.jpg",
             "email": "2539372545@qq.com"
         },
@@ -61,11 +59,20 @@
             "avatarUrl": "https://user-images.githubusercontent.com/52265815/62406442-73b32c00-b5de-11e9-90d0-382d3b2599a0.jpg",
             "email": "1477910522@qq.com"
         },
-         {
-            "name": "Lishun Zhu",
+        {
+            "name": "Lishun Zhu"
+        },
+        {
+            "name": "Cun Qian",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/48269129/62406550-55e6c680-b5e0-11e9-9d86-ab991f24dd5f.png",
+            "email": "871638346@qq.com"
+        },
+        {
+            "name": "Liu Liang",
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/18325526/62406359-81b47d00-b5dd-11e9-9623-ce5ca81c010f.JPG",
             "email": "790521229@qq.com",
-        },
+        }
     ]
 }
