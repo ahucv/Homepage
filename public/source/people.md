@@ -2,6 +2,6 @@
 
 <div id="faculty"></div>
 
-## Student
+## Students
 
-<div id="student"></div>
+<div id="students"></div>
