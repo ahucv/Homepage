@@ -37,6 +37,30 @@ class MarkdownLoader extends React.Component {
                     document.getElementById('students')
                 );
                 break;
+            case '/project':
+                const styleRules = `
+                    h2, h3 {
+                        cursor: pointer;
+                    }
+                `.trim();
+                const body = document.querySelector('body');
+                const style = document.createElement('style');
+                style.innerText = styleRules;
+                body.appendChild(style);
+                const titles = document.querySelectorAll('h3');
+                // handle click events
+                titles.forEach(title => {
+                    title.nextSibling.style.display = 'none';
+                    title.addEventListener('click', () => {
+                        const siblingStyle = title.nextSibling.style;
+                        if (siblingStyle.display !== 'none') {
+                            siblingStyle.display = 'none';
+                        } else {
+                            siblingStyle.display = 'block';
+                        }
+                    })
+                })
+                break;
             default:
                 break;
         }
