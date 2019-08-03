@@ -86,24 +86,22 @@ class Slider extends React.Component {
 const Slide = ({ image, description }) => {
   const styles = {
     backgroundImage: `url(${image})`,
-    backgroundSize: 'cover',
-    backgroundRepeat: 'no-repeat',
-    backgroundPosition: '50% 60%'
+    backgroundRepeat: 'no-repeat'
   }
   return (
-    <div className="slide" style={styles}>
-      { description ? <SDescriptions>{ description }</SDescriptions> : undefined }
-    </div>
+    <React.Fragment>
+      <div className="slide" style={styles}></div>
+      {description ? <SDescriptions>{description}</SDescriptions> : undefined}
+    </React.Fragment>
   );
 }
 
 const SDescriptions = styled.div`
   position: absolute;
-  bottom: 0;
+  bottom: -50px;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.75);
-  color: rgba(250, 250, 250, 0.9);
+  color: black;
   padding: 10px 20px;
   display: flex;
   @media (max-width: 450px) {
