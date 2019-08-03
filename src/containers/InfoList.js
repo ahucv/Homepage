@@ -26,6 +26,10 @@ const SInfoList = styled.div`
     width: 100%;
     flex-wrap: wrap;
     justify-content: space-around;
+    &::after {
+        content: '';
+        flex: auto;
+    }
 `;
 
 export default InfoList;
