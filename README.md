@@ -13,6 +13,9 @@ You can edit each section by modifying the following files in the GitHub:
 - [Dataset](https://github.com/ahucv/Homepage/edit/master/public/source/dataset.md)
 - [Link](https://github.com/ahucv/Homepage/edit/master/public/source/link.md)
 
+## How to update slider
+Currently, we store the slide images and their descriptions in the [silder.json](./public/source/slider.json). You can edit this file directly to update it.
+
 ## How to update your information
 Below is a simple demo that guides you to update your profile in our website:
 
