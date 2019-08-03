@@ -87,7 +87,7 @@ const Slide = ({ image, description }) => {
   }
   return (
     <div className="slide" style={styles}>
-      <SDescriptions>{ description }</SDescriptions>
+      { description ? <SDescriptions>{ description }</SDescriptions> : undefined }
     </div>
   );
 }
