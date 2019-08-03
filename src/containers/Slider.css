@@ -1,7 +1,7 @@
 .slider {
   position: relative;
   width: 100%;
-  margin: 0;
+  margin: -80px 0 -20px;
   height: 600px;
   overflow: hidden;
   white-space: nowrap;
@@ -22,16 +22,16 @@
   height: 100%;
   width: 100%;
   position: relative;
-  background: center/100%;
+  background: center/75%;
 }
 
 .arrow {
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(39, 40, 34, 0.6);
+  background: rgba(100, 100, 100, 0.3);
   border-radius: 50%;
   cursor: pointer;
   transition: transform ease-in 0.1s;
@@ -62,7 +62,7 @@
 
 @media (max-width: 450px) {
   .slider {
-    margin: 0;
+    margin: -40px 0 -10px;
     height: 250px;
   }
 }

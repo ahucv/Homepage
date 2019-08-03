@@ -99,15 +99,16 @@ const Slide = ({ image, description }) => {
 
 const SDescriptions = styled.div`
   position: absolute;
-  bottom: 0px;
+  bottom: 30px;
   left: 0;
   right: 0;
-  color: white;
+  color: #666666;
   padding: 10px 20px;
   display: flex;
-  background: rgba(0, 0, 0, 0.75);
+  justify-content: center;
   @media (max-width: 450px) {
-    font-size: 12px;
+    font-size: 10px;
+    bottom: 0;
   }
 `;
 
