@@ -23,16 +23,23 @@
     ],
     "students": [
         {
-            "name": "Yabin Zhu",
-            "title": "Phd",
-            "avatarUrl": "https://user-images.githubusercontent.com/22411299/62405775-4c576180-b5d4-11e9-9244-656c1bddff55.jpg",
-            "email": "zhuyabin0726@foxmail.com"
+            "name": "Chenglong Li",
+            "title": "Associate Professor",
+            "avatarUrl": "https://user-images.githubusercontent.com/53565435/62385216-0cb65880-b587-11e9-87fd-995b2724d6c2.png",
+            "email": "lcl1314 (at) foxmail.com",
+            "website": "http://chenglongli.cn"
         },
         {
-            "name": "Lei Liu",
-            "avatarUrl": "https://user-images.githubusercontent.com/43487243/62405436-b7526980-b5cf-11e9-9334-12f340369f60.png",
-            "email": "1210568677 (at) qq.com"
+            "name": "Chenglong Li",
+            "title": "Associate Professor",
+            "avatarUrl": "https://user-images.githubusercontent.com/53565435/62385216-0cb65880-b587-11e9-87fd-995b2724d6c2.png",
+            "email": "lcl1314 (at) foxmail.com",
+            "website": "http://chenglongli.cn"
+        },
+         {
+            "name": "Lishun Zhu",
+            "avatarUrl": "https://user-images.githubusercontent.com/18325526/62406359-81b47d00-b5dd-11e9-9623-ce5ca81c010f.JPG",
+            "email": "790521229@qq.com",
         }
-        
     ]
 }
