@@ -27,7 +27,7 @@
 
 ## RGBT Image Saliency Detection
 
-1. **RGBT234 Dataset** [[Google drive](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view?usp=sharing)] [[Baidu cloud](https://pan.baidu.com/s/1eGQJhvnKnqV1KJ1GY_63NA)]
+1. **VT1000** [[Google drive](https://drive.google.com/file/d/1NCPFNeiy1n6uY74L0FDInN27p6N_VCSd/view?usp=sharing)] [[Baidu cloud](https://pan.baidu.com/s/1eGQJhvnKnqV1KJ1GY_63NA)]
 
     **Citation:** Zhengzheng Tu, Tian Xia, Chenglong Li, Xiaoxiao Wang, Yan Ma. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (TMM), in press.
 
