@@ -34,12 +34,6 @@
             "email": "zhuyabin0726@foxmail.com"
         },
         {
-            "name": "Andong Lu",
-            "title": "Postgraduate Student",
-            "avatarUrl": "https://user-images.githubusercontent.com/48269129/62407926-e3cbad00-b5f2-11e9-906f-759304678093.jpg",
-            "email": " adlu_ah@foxmail.com"
-        },
-        {
             "name": "Lei Liu",
             "avatarUrl": "https://user-images.githubusercontent.com/43487243/62405436-b7526980-b5cf-11e9-9334-12f340369f60.png",
             "email": "1210568677 (at) qq.com"
@@ -184,11 +178,11 @@
             "avatarUrl": "../images/xianchen_cai.png",
             "email": "xccai@outlook.com"
         },
-        {
-            "name": "Tianhao Zhu",
+         {
+            "name": "Xiaoxiao Wang",
             "title": "Postgraduate Student",
-            "avatarUrl": "https://user-images.githubusercontent.com/49473096/62406402-08695a00-b5de-11e9-84e5-1d902b43da13.jpg",
-            "email": "1104071058@qq.com"
-        }
+            "avatarUrl": "https://user-images.githubusercontent.com/40173299/62408044-c39ced80-b5f4-11e9-86d8-4649c9cd597a.png",
+            "email": "xiaoxiao9212@foxmail.com"
+        },       
     ]
 }
