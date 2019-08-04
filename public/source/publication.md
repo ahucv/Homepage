@@ -14,10 +14,10 @@
    
 ### In press  
 
-1. Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (**PR**), in press. \[[arXiv](https://arxiv.org/abs/1805.08982)\] \[Dataset: [Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL "Google drive"), Baidu cloud\] \[[Project page](https://sites.google.com/view/ahutracking001/ "Project page")\]
-    
 2. Chenglong Li, Liang Lin, Wangmeng Zuo, Jin Tang, and Ming-Hsuan Yang. Visual Tracking via Dynamic Graph Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), in press.
-    
+
+2. Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (**PR**), in press. \[[arXiv](https://arxiv.org/abs/1805.08982)\] \[Dataset: [Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL "Google drive"), Baidu cloud\] \[[Project page](https://sites.google.com/view/ahutracking001/ "Project page")\]
+
 3. Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang. Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. IEEE Transactions on Circuits and Systems for Video Technology  (**T-CSVT**), in press.
 
 4. Zhengzheng Tu, Tian Xia, Chenglong Li , Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**TMM**), in press.
@@ -48,7 +48,7 @@
     
 3.  Chenglong Li, Zhimin Bao, Xiao Wang, and Jin Tang. Moving Object Detection via Robust Background Modeling with Recurring Patterns Voting. Multimedia Tools and Applications (**MTAP**), 77(11): 13557-13570, 2018.  
 
-4.  Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (**ECCV**), 2018. \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)[cmr\_code.rar\]\[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](http://chenglongli.cn/system/file?fileId=105967)[Results\_GTOT.zip](http://chenglongli.cn/system/file?fileId=107245)[\] \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](http://chenglongli.cn/system/file?fileId=105967)[Results\_RGBT210.zip\]](/system/file?fileId=107246)
+4.  Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (**ECCV**), 2018. \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)[cmr\_code.rar\]\[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](http://chenglongli.cn/system/file?fileId=105967)[Results\_GTOT.zip](http://chenglongli.cn/system/file?fileId=107245)[\] \[![](https://user-images.githubusercontent.com/48269129/62413523-79daf400-b642-11e9-9fe2-762bdd2d5eb1.gif)](http://chenglongli.cn/system/file?fileId=105967)[Results\_RGBT210.zip\]](http://chenglongli.cn/system/file?fileId=107246)
     
 5.  Xiao Wang, Chenglong Li, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracking via Adversarial Positive Instance  Generation. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**),  2018. \[[Project page](https://sites.google.com/view/cvpr2018sintplusplus/)\]
     
@@ -101,10 +101,9 @@
 
 
 ### 2016
-
-1.  Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, and Liang Lin.Learning Collaborative Sparse Representation for Grayscale-thermal Tracking.  IEEE Transactions on Image Processing (**T-IP**), 25(12): 5743-5756, 2016.  \[Code\] \[Dataset: [Google drive](https://docs.google.com/uc?id=0B-Z6TyBF2ceIZ0c1anVhaHQ3MFk&export=download), [Baidu Cloud](https://pan.baidu.com/s/1QNidEo-HepRaS6OIZr7-Cw)\] \[[Attribute annotation](https://drive.google.com/open?id=0B4fH4G1f-jjNT0QtU0Y5eTBIUmc)\] \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[Baseline results.zip](http://www.escience.cn/system/file?fileId=84212)\]
-    
-2.  Chenglong Li, Liang Lin, Wangmeng Zuo, Wenzhong Wang, and Jin Tang.An Approach to Streaming Video Segmentation with Sub-Optimal Low-rank Decomposition. IEEE Transactions on Image Processing (**T-IP**), 25(5): 1947-1960, 2016. \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)C[ode.rar](http://www.escience.cn/system/file?fileId=83421)\] \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)R[esults.rar](http://www.escience.cn/system/file?fileId=83420)  \]
+1.  Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, and Liang Lin.Learning Collaborative Sparse Representation for Grayscale-thermal Tracking.  IEEE Transactions on Image Processing (**T-IP**), 25(12): 5743-5756, 2016.  \[Code\] \[Dataset: [Google drive](https://docs.google.com/uc?id=0B-Z6TyBF2ceIZ0c1anVhaHQ3MFk&export=download), [Baidu Cloud](https://pan.baidu.com/s/1QNidEo-HepRaS6OIZr7-Cw)\] \[[Attribute annotation](https://drive.google.com/open?id=0B4fH4G1f-jjNT0QtU0Y5eTBIUmc)\] \[![](http://chenglongli.cn/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[Baseline results.zip](http://www.escience.cn/system/file?fileId=84212)\]
+ 
+2.  Chenglong Li, Liang Lin, Wangmeng Zuo, Wenzhong Wang, and Jin Tang.An Approach to Streaming Video Segmentation with Sub-Optimal Low-rank Decomposition. IEEE Transactions on Image Processing (**T-IP**), 25(5): 1947-1960, 2016. \[![](http://chenglongli.cn/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[Code.rar](http://www.escience.cn/system/file?fileId=83421)\] \[![](http://chenglongli.cn/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[Results.rar](http://www.escience.cn/system/file?fileId=83420)  \]
     
 3.  Chenglong Li, Shiyi Hu, Sihan Gao, and Jin Tang. Real-time Grayscale-thermal Tracking  via Laplacian Sparse Representation. International Conference on Multimedia Modelling  (**MMM**), Miami, 2016.
 
@@ -123,7 +122,7 @@
 
 1.  Keze Wang, Liang Lin, Jiangbo Lu, Chenglong Li, and Keyang Shi.PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures with Edge-Preserving Coherence. IEEE Transactions on Image Processing (**T-IP**), 24(10): 3019-3033, 2015. \[[Project page](http://vision.sysu.edu.cn/project/PISA/) with code and dataset\] \[**ESI Highly Cited Paper**\] 
 
-2.  Chenglong Li, Liang Lin, Wangmeng Zuo, Shuicheng Yan, and Jin Tang. SOLD: Sub-Optimal Low-Rank Decomposition for Efficient Video Segmentation.  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Boston, 2015. \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[SOLD-code.rar](/system/file?fileId=83421)\] \[![](/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[SOLD-results.rar](/system/file?fileId=83420)  on VSB100\]  
+2.  Chenglong Li, Liang Lin, Wangmeng Zuo, Shuicheng Yan, and Jin Tang. SOLD: Sub-Optimal Low-Rank Decomposition for Efficient Video Segmentation.  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Boston, 2015. \[![](http://chenglongli.cn/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[SOLD-code.rar](http://chenglongli.cn/system/file?fileId=83421)\] \[![](http://chenglongli.cn/resources/third-party/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif)[SOLD-results.rar](http://chenglongli.cn/system/file?fileId=83420)  on VSB100\]  
 
 3. Zhengzheng Tu, Aihua Zheng, Erfu Yang, Bin Luo, and Amir Hussain. ABiologically Inspired Vision-Based Approach for Detecting MultipleMoving Objects in Complex Outdoor Scenes. Cognitive Computation, 7(5)：539-551, 2015.
 

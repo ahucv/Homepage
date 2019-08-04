@@ -68,12 +68,6 @@
             "email": "1210568677@qq.com"
         },
         {
-            "name": "Rui Yang",
-            "title": "Postgraduate Student",
-            "avatarUrl": "https://user-images.githubusercontent.com/40713720/62411952-a8020900-b62d-11e9-822a-fc293d10094d.jpg",
-            "email": "yangruiahu@foxmail.com"
-        },
-        {
             "name": "Yafei Gao",
             "title": "Postgraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/yafei_gao.jpg",
@@ -84,6 +78,12 @@
             "title": "Postgraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/yan_ma.png",
             "email": "M17856174397@163.com"
+        },
+        {
+            "name": "Naipeng Ye",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/32775192/62421368-1056f600-b6d3-11e9-86b8-4708e7e58221.jpg",
+            "email": "naipengye@gmail.com"
         },
         {
             "name": "Qinwen Zhu",
@@ -160,7 +160,7 @@
         {
             "name": "Lanlan Yang",
             "title": "Postgraduate Student",
-            "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/lanlan_yang.png",
+            "avatarUrl": "https://user-images.githubusercontent.com/46238909/62418960-8003bb80-b6a8-11e9-802a-f875eb704b39.jpg",
             "email": "namyeung@qq.com"
         },
         {
@@ -230,6 +230,12 @@
             "email": "tianxia.ahu@foxmail.com"
         },
         {
+            "name": "Ziwei Xiong", 
+            "title": "Postgraduate Student", 
+            "avatarUrl": "https://user-images.githubusercontent.com/53681528/62420119-d3353880-b6bf-11e9-89fe-460fed5dd524.png", 
+            "email": "xzw992@foxmail.com"
+        },
+        {
             "name": "Xiaoxiao Wang",
             "title": "Postgraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/xiaoxiao_wang.png",
@@ -246,6 +252,12 @@
             "title": "Postgraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/chao_wang.jpg",
             "email": "wchao19971213@163.com"
+        },
+        {
+            "name": "Yangyang Xie",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/32775192/62421387-75aae700-b6d3-11e9-9b70-b653f0b24619.jpg",
+            "email": "xyyahu@gmail.com"
         },
         {
             "name": "Wei Xia",
@@ -343,6 +355,12 @@
             "avatarUrl": "https://user-images.githubusercontent.com/53632826/62412016-ab49c480-b62e-11e9-8d95-390d0b8d2fde.jpg",
             "email": "1363948685@qq.com"
         },
+        {
+            "name": "Wenmei Xu",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/53634030/62418646-06b49a80-b6a1-11e9-8fda-fa4566a81b89.jpg",
+            "email": "1368629150@qq.com"
+        },        
         {
             "name": "Qiuyu Kong",
             "title": "Undergraduate Student",
