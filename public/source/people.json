@@ -354,7 +354,13 @@
             "title": "Undergraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/shiqi_mei.jpg",
             "email": "lolimay@lolimay.cn"
-        }
+        },
+        {
+            "name": "Naipeng Ye",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/32775192/62421368-1056f600-b6d3-11e9-86b8-4708e7e58221.jpg",
+            "email": "naipengye@gmail.com"
+        },
                  
     ]
 }
