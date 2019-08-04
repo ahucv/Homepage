@@ -1,5 +1,4 @@
 import React from 'react';
-import { AnimatedSwitch } from 'react-router-transition';
 import './App.css';
 
 import Banner from './containers/Banner';
@@ -22,14 +21,7 @@ class App extends React.Component {
       <Router>
         <Route exact path="/" render={() => <Redirect to="/home" />} />
         <Banner></Banner>
-        <AnimatedSwitch
-          atEnter={{ opacity: 0 }}
-          atLeave={{ opacity: 0 }}
-          atActive={{ opacity: 1 }}
-          className="switch-wrapper"
-        >
-          {this.renderRoutes()}
-        </AnimatedSwitch>
+        {this.renderRoutes()}
         <Footer></Footer>
       </Router>
     );
