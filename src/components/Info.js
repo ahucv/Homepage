@@ -23,7 +23,7 @@ class Info extends React.Component {
 
 const SInfo = styled.div`
     height: 230px;
-    margin: 15px 20px;
+    margin: 15px 25px;
     display: inline-block;
     .image-box {
         position: relative;
@@ -60,6 +60,9 @@ const SInfo = styled.div`
         font-size: 12px;
         text-align: center;
         margin-left: -10px;
+    }
+    @media (max-width: 450px) {
+        margin: 15px 0;
     }
 `;
 

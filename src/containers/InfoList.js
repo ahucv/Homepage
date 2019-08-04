@@ -26,7 +26,7 @@ const SInfoList = styled.div`
     width: 100%;
     flex-wrap: wrap;
     padding: 0 20px;
-    justify-content: space-between;
+    justify-content: flex-start;
     &::after {
         content: '';
         flex: auto;
