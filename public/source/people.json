@@ -366,7 +366,13 @@
             "title": "Postgraduate Student",
             "avatarUrl": "https://user-images.githubusercontent.com/53687595/62421650-d89e7d00-b6d7-11e9-9093-d70cc9985791.jpg",
             "email": "1533744785@qq.com"
-        }, 
+        },
+        {
+            "name": "Chaofeng Li",
+            "title": "Postgraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/50269849/62423764-76557480-b6f7-11e9-8a42-7e5521e7ed21.jpg",
+            "email": "15656915669@163.com"
+        },
         {
             "name": "Qiuyu Kong",
             "title": "Undergraduate Student",
@@ -378,7 +384,6 @@
             "title": "Undergraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/shiqi_mei.jpg",
             "email": "lolimay@lolimay.cn"
-        }
-                 
+        }      
     ]
 }
