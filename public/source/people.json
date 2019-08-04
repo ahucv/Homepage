@@ -348,7 +348,12 @@
             "title": "Undergraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/shiqi_mei.jpg",
             "email": "lolimay@lolimay.cn"
-        }
-                 
+        },
+        {
+            "name": "Ziwei Xiong", 
+            "title": "Postgraduate Student", 
+            "avatarUrl": "https://user-images.githubusercontent.com/53681528/62419872-9b78c180-b6bc-11e9-8ec0-9632c0a529fe.png", 
+            "email": "xzw992@foxmail.com"
+        }         
     ]
 }
