@@ -327,10 +327,18 @@
         }, 
         {
             "name": "Feixia Zhu",
-            "title": "Undergraduate Student",
+            "title": "Postgraduate Student",
             "avatarUrl": "https://images.lolimay.cn/ahucv/avatars/feixia_zhu.jpg",
             "email": "emmazfx@163.com"
         },
+         
+        {
+            "name": "Hao Zhu",
+            "title": "Posegraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/10545746/62437593-75175c80-b776-11e9-8d39-7dd5ff30726d.png",
+            "email": "haozhu96@gmail.com"
+        },
+                 
         {
             "name": "Rui Yang",
             "title": "Postgraduate Student",
