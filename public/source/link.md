@@ -5,3 +5,4 @@
 2.
 
 ### Useful links
+1. [Papers With Code: Visual Object Tracking](https://paperswithcode.com/task/visual-object-tracking)
