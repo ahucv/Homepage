@@ -16,6 +16,7 @@ class InfoList extends React.Component {
                         title={title}
                     />
                 )) }
+                <i></i><i></i><i></i><i></i>
             </SInfoList>
         );
     }
@@ -26,10 +27,10 @@ const SInfoList = styled.div`
     width: 100%;
     flex-wrap: wrap;
     padding: 0 20px;
-    justify-content: flex-start;
-    &::after {
-        content: '';
-        flex: auto;
+    justify-content: space-between;
+    i {
+        width: 160px;
+        padding: 0 25px;
     }
 `;
 
