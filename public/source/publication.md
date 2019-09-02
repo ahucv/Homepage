@@ -20,7 +20,7 @@
 
 3. Chenglong Li, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang. Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. IEEE Transactions on Circuits and Systems for Video Technology  (**T-CSVT**), in press.
 
-4. Zhengzheng Tu, Tian Xia, Chenglong Li , Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**TMM**), in press. \[[Evaluation results](https://pan.baidu.com/s/1ok2jhkGXaLxp4symRuS4Ng)/]
+4. Zhengzheng Tu, Tian Xia, Chenglong Li , Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**TMM**), in press. [[Evaluation results](https://pan.baidu.com/s/1ok2jhkGXaLxp4symRuS4Ng)]
     
 5. Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and Chenglong Li . A Subspace Learning Approach to Multi-Shot Person Re-Identification. IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), in press.
 
