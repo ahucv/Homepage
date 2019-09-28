@@ -8,8 +8,7 @@
 
     **Citation:** Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. [arXiv:1907.07485, 2019.](https://arxiv.org/abs/1907.07485)
     
-3. **Collaborative Graph Learning for RGBT Saliency Detection**: [[code]](https://pan.baidu.com/s/1bb1Fx5-VmgSgMTw9r37Jzw
-)
+3. **Collaborative Graph Learning for RGBT Saliency Detection**: [[code]](https://pan.baidu.com/s/1bb1Fx5-VmgSgMTw9r37Jzw)
 
     **Citation:** Zhengzheng Tu, Tian Xia, Chenglong Li, Xiaoxiao Wang, Yan Ma. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (TMM), in press.
     
