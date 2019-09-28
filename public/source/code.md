@@ -6,7 +6,7 @@
 
 2. **Multi-Adapter Network for RGBT Tracking**: [[code]](https://github.com/Alexadlu/MANet)
 
-    **Citation:** Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. [arXiv:1907.07485, 2019.](https://arxiv.org/abs/1907.07485)
+    **Citation:** Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. International Conference on Computer Vision Workshops, 2019. (Spotlight) 
     
 3. **Collaborative Graph Learning for RGBT Saliency Detection**: [[code]](https://pan.baidu.com/s/1bb1Fx5-VmgSgMTw9r37Jzw)
 
